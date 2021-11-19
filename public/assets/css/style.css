@@ -529,7 +529,18 @@ header .navbar {
 	margin-top: 20px;
 }
 
-
+/* why us div */
+.why-us-outer-div,h2, h3, p, i{
+  padding:3% 0% 3% 0% ;
+  text-align:center;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+i{
+  font-size:3vw;
+  color:#f33f3f;
+}
 
 
 
